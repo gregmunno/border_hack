@@ -1,6 +1,6 @@
 # Hack the Border, NEW 508, March 20, 2019
 
-Step 1: Download the zip file at https://data.transportation.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/data. Note that this file was downloaded from Data downloaded from https://data.transportation.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/data on March 20, 2019, and included all variables for all years and saved as a CSV. 
+Step 1: Download Border_Crossing_Entry_Data.csv.zip at https://data.transportation.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/data. Note that this file was downloaded from Data downloaded from https://data.transportation.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/data on March 20, 2019, and included all variables for all years and saved as a CSV. (If we get stuck we may end up downloading the "clean" version uploaded to this directory).	
 
 Step 2: Move to desktop and uncompress/extract  
 
