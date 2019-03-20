@@ -29,3 +29,7 @@ Step 6: Create a variety of pivot tables to generate findings. Which border has 
 
 Step 7: Save a series of individual csv files of things you might want to try to visualize. 
 
+Step 8: Use a program like Tableau Public, DataWrapper, or Infogram to visualize some of this data (less is more)
+
+Step 9: Find more data relevant to the project, download, clean, analyize and visualize. 
+
