@@ -1,4 +1,4 @@
-# NEW 508 Hack the Border Lesson, March 20, 2019
+# Hack the Border, NEW 508, March 20, 2019
 
 Step 1: Download the zip file at https://data.transportation.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/data. Note that this file was downloaded from Data downloaded from https://data.transportation.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/data on March 20, 2019, and included all variables for all years and saved as a CSV. 
 
