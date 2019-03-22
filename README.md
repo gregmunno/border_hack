@@ -8,17 +8,26 @@ Step 3: Let's now examine this csv using the command line and then open it in ex
 
 From Mac:
 Type "terminal" in Spotlight to launch
+
 "change directory" -> cd ~/desktop
+
 List files -> LS
+
 head Border_Crossing_Data.CSV
+
 open -a "Microsoft Excel" Border_Crossing_Entry_Data.csv
+
 More on CVS from the Mac Terminal at https://bconnelly.net/posts/working_with_csvs_on_the_command_line/
 
 From Windows 10: 
 Cortina Search -> PowerShell 
+
 "change directory" -> cd desktop
+
 List files -> dir 
+
 gc .\Border_Crossing_Entry_Data.csv | select -first 10
+
 Invoke-Item .\Border_Crossing_Entry_Data.csv
 
 Step 4: Parse the location variable. {  =clean(a:a) -> paste values only -> text to columns -> find and replace }
@@ -33,3 +42,4 @@ Step 8: Use a program like Tableau Public, DataWrapper, or Infogram to visualize
 
 Step 9: Find more data relevant to the project, download, clean, analyize and visualize. 
 
+NOTE: 
